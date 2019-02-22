@@ -1,5 +1,5 @@
 # interview_questions
-These are my solutions to interview questions that I have gotten and the things I learned from them.
+These are my solutions to interview questions that I have gotten and the things I learned from them. I would like to the all the people who gave me these interviews as they gave me more experience on how to problem solve and approach these types of questions. 
 
 ## palindrome_rearranging
 
